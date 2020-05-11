@@ -1,0 +1,13 @@
+section {
+    height: 100vh;
+}
+
+@media (max-width: 680px) {
+
+}
+
+header {
+    position: fixed;
+    height: 100%;
+    top: -15px;
+}
